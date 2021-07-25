@@ -20,6 +20,8 @@
     "ethers": "^5.0.24",
     "hardhat": "^2.0.6",
     "hardhat-deploy": "^0.7.0-beta.39",
+    "hardhat-gas-reporter": "^1.0.4",
+    "solidity-coverage": "^0.7.16",
     "web3": "^1.2.9"
   },
   "dependencies": {
